@@ -1,0 +1,22 @@
+.logo {
+    text-align: center !important;
+}
+
+.logo img {
+    width: 18em;
+}
+
+.site-login {
+    width: 35em !important;
+    margin-top: 3em;
+    text-align: center !important;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+
+
+
+@media screen and (min-width: 375px) {
+    
+}
